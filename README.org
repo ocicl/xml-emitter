@@ -1,0 +1,10 @@
+* xml-emitter
+
+The official repository, taken over from Peter Scott.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/VitoVan/xml-emitter.git   |
+| commit  | 0afb8e2  |
+| systems | xml-emitter |
+|---------+-------------------------------------------|
+
